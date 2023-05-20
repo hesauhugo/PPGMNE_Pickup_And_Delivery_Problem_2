@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\bin\Debug\Aula5.exe.config
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\bin\Debug\Aula5.exe
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\bin\Debug\Aula5.pdb
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\bin\Debug\gurobi91.netstandard20.dll
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\bin\Debug\gurobi91.netstandard20.xml
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.Form1.resources
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.Properties.Resources.resources
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.csproj.GenerateResource.cache
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.csproj.CopyComplete
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.exe
+C:\Users\User\Documents\Mestrado\PMI\Aula02\Aula5\obj\Debug\Aula5.pdb
